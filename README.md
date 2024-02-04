@@ -1,1 +1,1 @@
-## Algo Trading System
+## NeuralSync Trader
